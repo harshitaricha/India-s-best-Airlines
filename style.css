@@ -1,0 +1,11 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Times New Roman';
+}
+header {
+    background-image: url('https://d2htwrs017c1b3.cloudfront.net/uploads/2019/10/john-cameron-WRQixJtep3A-unsplash%20resized.jpg');
+    background-size: cover;
+    background-position: center;
+
+}
